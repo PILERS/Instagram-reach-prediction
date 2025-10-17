@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.egg-info/
+venv/
+.env
+```
+
+### 2. **Star your own repository** ⭐
+- Click the "Star" button on your repo page (makes it easier to find later)
+
+### 3. **Pin it to your profile**
+- Go to your profile: `https://github.com/PILERS`
+- Click "Customize your pins"
+- Select this repository
+
+### 4. **Share it!**
+Your project URL is:
+```
+https://github.com/PILERS/Instagram-reach-prediction
